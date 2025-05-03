@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manu Goyal
+# 👋 Hi, I'm Manu - Product Leader & Builder | Fintech | AI | Automation
 
 I'm a product leader and builder focused on solving real-world problems with technology. I enjoy experimenting with LLMs, workflow automation, and data-driven decision making — with a strong foundation in fintech, financial services and capital markets.
 
